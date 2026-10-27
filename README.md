@@ -31,7 +31,9 @@ there is no claim of complete UE5 compatibility.
 
 ## Quick start
 
-Copy only these three runtime files into your Unreal project, preserving the layout:
+Download the ready-to-use ZIP from [GitHub Releases](https://github.com/PullsarDev/UnrealProjectBootstrap/releases) and extract it beside your project's `.uproject` file, preserving the `Scripts/` folder. The ZIP includes the three runtime files and the MIT `LICENSE`; you do not need to clone the repository.
+
+Alternatively, copy these three runtime files from the repository into your Unreal project, preserving the layout:
 
 ```text
 YourProject/
