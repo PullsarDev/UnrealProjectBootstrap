@@ -1,0 +1,21 @@
+# Runtime logs, downloaded installers, and isolated test fixtures.
+Saved/
+*.log
+
+# Unreal and IDE output do not belong in this utility repository.
+Binaries/
+Intermediate/
+DerivedDataCache/
+.vs/
+*.sln
+*.suo
+*.user
+*.vcxproj*
+
+# Project assets and compiled binaries are not distribution files.
+*.uproject
+*.uasset
+*.umap
+*.exe
+*.dll
+*.pdb
